@@ -1,7 +1,5 @@
 package Fundamentals;
 
-import org.graalvm.compiler.asm.sparc.SPARCAssembler.FMOVcc;
-
 public class NumericPrimitiveTypeConversion {
 
     public static void main(String[] args) {
