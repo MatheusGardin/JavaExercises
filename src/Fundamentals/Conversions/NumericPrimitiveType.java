@@ -1,6 +1,6 @@
-package Fundamentals;
+package Fundamentals.Conversions;
 
-public class NumericPrimitiveTypeConversion {
+public class NumericPrimitiveType {
 
     public static void main(String[] args) {
 

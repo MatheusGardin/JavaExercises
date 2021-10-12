@@ -1,6 +1,6 @@
-package Fundamentals;
+package Fundamentals.Operators;
 
-public class ArithmeticOperators {
+public class Arithmetic {
 
     public static void main(String[] args) {
 

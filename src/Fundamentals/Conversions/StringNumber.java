@@ -1,6 +1,6 @@
-package Fundamentals;
+package Fundamentals.Conversions;
 
-public class StringNumberConversion {
+public class StringNumber {
 
     public static void main(String[] args) {
 

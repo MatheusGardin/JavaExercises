@@ -1,8 +1,8 @@
-package Fundamentals;
+package Fundamentals.Conversions;
 
 import javax.swing.JOptionPane;
 
-public class NumberStringConversion {
+public class NumberString {
 
     public static void main(String[] args) {
 
