@@ -14,7 +14,7 @@ public class NumberStringConversion {
             "Enter the second number"
         );
 
-        System.out.println(value1 + value2);
+        System.out.println("Number 1: " + value1 + ". Number 2: " + value2);
 
         double number1 = Double.parseDouble(value1);
         double number2 = Double.parseDouble(value2);
