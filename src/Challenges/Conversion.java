@@ -1,8 +1,8 @@
-package Fundamentals;
+package Challenges;
 
 import java.util.Scanner;
 
-public class ConversionChallenge {
+public class Conversion {
 
     public static void main(String[] args) {
 

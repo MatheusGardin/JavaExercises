@@ -24,5 +24,12 @@ public class ArithmeticOperators {
         System.out.println(a % b);
 
         System.out.println(x + b - a * x);
+
+        int c = 2 + 3 * 4;
+        int d = (int) Math.pow(c, 3);
+        double e = Math.pow(c, 3);
+
+        System.out.println(d);
+        System.out.println(e);
     }
 }

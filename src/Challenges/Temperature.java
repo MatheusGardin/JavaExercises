@@ -1,4 +1,4 @@
-package Fundamentals;
+package Challenges;
 
 public class Temperature {
 
