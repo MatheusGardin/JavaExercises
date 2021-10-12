@@ -8,13 +8,13 @@ public class ConversionChallenge {
 
         Scanner entry = new Scanner(System.in);
 
-        System.out.print("Type your first salary.");
+        System.out.print("Type your first salary: ");
         String value1 = entry.next().replace(",", ".");
 
-        System.out.print("\nType your second salary.");
+        System.out.print("\nType your second salary: ");
         String value2 = entry.next().replace(",", ".");
 
-        System.out.print("\nType your third salary.");
+        System.out.print("\nType your third salary: ");
         String value3 = entry.next().replace(",", ".");
 
         double salary1 = Double.parseDouble(value1);
@@ -24,7 +24,7 @@ public class ConversionChallenge {
         double sum = salary1 + salary2 + salary3;
         double avg = sum / 3;
 
-        System.out.println("The average salary is " + avg);
+        System.out.println("\nThe average salary is " + avg);
 
         entry.close();
     }
